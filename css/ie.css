@@ -1,0 +1,26 @@
+header a:hover{
+    color: #555;
+}
+
+.menu li a:hover, .logo a:hover{margin-top: 5px;}
+
+.big_title{
+    color: #555;
+}
+
+html{
+    font-size: 110%;
+}
+
+.slogan{
+    background: none;
+    background: url(../images/yellowball.png) no-repeat;
+}
+.whatThe{
+    background: none;
+    background: url(../images/pinkball.png) no-repeat;
+}
+.whoThe{
+    background: none;
+    background: url(../images/greenball.png) no-repeat;
+}

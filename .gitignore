@@ -1,0 +1,11 @@
+inc/db*
+inc/db.txt
+inc/db.inc.php
+.svn/
+images/
+fonts/
+design/assets/
+entries.php
+entries.html
+.htaccess
+.idea/
